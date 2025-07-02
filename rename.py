@@ -1,5 +1,5 @@
 import os
-
+# testando
 def rename_files_to_sequence(folder_name):
     # folder_name = "man"
     folder_man = os.listdir(folder_name)
